@@ -1,6 +1,6 @@
 RESERVADA class|public|static|main|String|extends|int|boolean|if|else|while|System.out.println|true|false|this|length|new|return|void
-COMENTARIO [//|/*|*/]
-OPERADOR [+|-|*|/|&|||<|>|=|!]
+COMENTARIO \/|\/\*|\*\/
+OPERADOR \+|\-|\*|\/|&|\||<|>|=|!
 DIGITO	[0-9]
 LETRA	[a-zA-Z]
 ID	{LETRA}({LETRA}|{DIGITO})*
